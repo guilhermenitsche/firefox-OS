@@ -1,7 +1,7 @@
 {
   "name": "Aplicativo do Fulano",
   "description": "Aplicativo Pessoal para Firefox OS",
-  "launch_path": "https://rawgithub.com/guilhermenitsche/firefox-OS/master/app%20firefox%20/index.html",
+  "launch_path": "/index.html",
   "icons": { "128": "/img/firefox-128.png" },
   "developer": {
     "name": "Fulano de Tal",
